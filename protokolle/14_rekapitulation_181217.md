@@ -20,6 +20,8 @@
   * durch die saubere Kapselung und Docker konnte das Deployment problemlos und in kurzer Zeit durchgeführt werden
 * Transparenz während der ganzen Arbeit
   * durch JIRA, Github und wöchentlichen Sitzung ist sichtbar, wo man steht und was bisher erreicht wurde
+  * aktueller Stand der Doku immer ausgeliefert
+  * Sitzungsprotokolle und Beschlüsse nachgeführt
 
 ## Wie wurde vorgegangen?
 
@@ -32,12 +34,17 @@
 * Umsetzung des QGIS-Plugin
 * zu jeder Zeit wurde die Doku nachgeführt
 
+
 ## Mit welchen Herausforderungen hatten wir zu kämpfen?
 
+* extrem viel gemacht, aber wenig kam bei den Stakeholder rüber
+  * Befürchtung: dass bei Bewertung nicht alles sichtbar ist
 * Vorgehen wurde nicht klar kommuniziert
   * theoretischer Fokus der Arbeit verunmöglicht ein Release-Early und Release-Often (siehe Vorgehen)
+  * darum finden wir das modernes SW-Engineering durchgeführt wurde
 * unterschiedliche Erwartungshaltungen an den Prototyp (QGIS-Plugin)
   * Missverständis bei der Fokuslegung
+  * für Proof of Concept und nicht für den produktiven Einsatz, darum wurden auch nicht gross Usability-Test angedacht
 * Scope zu gross angesetzt
   * verlängerte Extrameile musste gegangen werden, um alle Anforderungen erfüllen zu können
   * hat mit der Aufgabenstellung, wie auch der unbekannten Problem-Domain zu tun
@@ -46,12 +53,13 @@
 ## Ein Lob an den Betreuer
 
 * hat uns ausgiebig seine Zeit, Know-How und Kontakte zur Verfügung gestellt
-* gestaltet aktiv mit, führt Recherche durch
+* gestaltet aktiv mit, führt Recherche durch, interessiert sich für die Thematik
 * steht voll hinter dem Projekt und gestaltet motiviert mit
 * jederzeit erreichbar
 
 ## Was erhoffen wir uns zusätzlich für die BA
 
+* häufiger und bewusster Ergebnisse demonstieren
 * konrekter Feedback-Zyklus schon zu Beginn des Projekts
 * Festlegung der konkreten Stakeholder und welchen Einfluss sie nehmen können und dürfen
 * Abnahme der konkreten Projektplanung
